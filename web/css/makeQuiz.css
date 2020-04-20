@@ -1,0 +1,16 @@
+.content {
+    height: 100px;
+}
+
+table {
+    width: 100%;
+}
+
+.text-top {
+    vertical-align: top;
+}
+
+textarea {
+    width: 100%;
+    height: 35px;
+}

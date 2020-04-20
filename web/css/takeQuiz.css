@@ -1,0 +1,25 @@
+.time {
+    text-align: right;
+}
+
+.hidden {
+    display: none;
+}
+
+#timeDisplay {
+    color: red;
+}
+
+.next {
+    text-align: left;
+}
+
+table {
+    width: 100%;
+}
+.col1 {
+    width: 80%
+}
+.col2 {
+    width: 80%
+}

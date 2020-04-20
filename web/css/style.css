@@ -1,0 +1,57 @@
+a {
+    text-decoration: none;
+    color: #2A577E;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table tr td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-image: url(../image/bg.jpg);
+    color: #2A577E;
+    font-size: 18px;
+}
+.container {
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+.header {
+    padding-top: 20px;
+}
+.main {
+    background-color: white;
+    width: 560px;
+    height: auto;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+.title {
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.wellcome {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.username {
+    font-size: 20px;
+    color: blue;
+    padding-bottom: 10px;
+}
+.quiz{
+    margin-bottom: 10px;
+}
+
+

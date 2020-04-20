@@ -1,0 +1,23 @@
+.labelCol {
+    width: 68%;
+}
+
+.fieldCol {
+    width: 22%;
+}
+
+.fieldAction {
+    width: 10%;
+}
+
+table {
+    width: 100%;
+}
+
+table th{
+    text-align: left;
+}
+
+.here {
+    background-color: yellow;
+}

@@ -1,0 +1,28 @@
+
+.top_box {
+    background-image: url(../image/top_box.gif);
+    width: 700px;
+    height: 19px;
+}
+.menu_bg {
+    width: 700px;
+    height: 51px;
+    background-color: white;
+}
+.menu {
+    background-image: url(../image/menu_bg.gif);
+    width: 663px;
+    height: 51px;
+    margin: 0 auto;
+}
+.menu a {
+    color: #61574C;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 51px;
+    text-decoration: none;
+}
+.menu table {
+    width: 560px;
+    margin: 0 auto;
+}

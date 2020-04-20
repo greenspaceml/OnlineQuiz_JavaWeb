@@ -1,0 +1,32 @@
+.title-form {
+    color: #100078;
+    font-size: 18px;
+    font-weight: bold;
+}
+table {
+    width: auto;
+}
+tr {
+    height: 30px;
+    line-height: 30px;
+}
+input[type=text] {
+    height: 20px;
+    background-color: #FFFF99;
+}
+input[type=password] {
+    height: 20px;
+    background-color: #FFFF99;
+}
+
+input[type=submit] {
+    font-weight: bold;
+}
+
+.labelCol {
+    width: 150px;
+}
+
+.user-pading {
+    padding-right: 5px;
+}
